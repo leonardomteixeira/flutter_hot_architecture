@@ -1,0 +1,52 @@
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.dart_tool/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+*build/
+.idea/
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.packages
+
+# Flutter repo-specific
+/bin/cache/
+/bin/internal/bootstrap.bat
+/bin/internal/bootstrap.sh
+/bin/mingit/
+/dev/benchmarks/mega_gallery/
+/dev/bots/.recipe_deps
+/dev/bots/android_tools/
+/dev/devicelab/ABresults*.json
+/dev/docs/doc/
+/dev/docs/flutter.docs.zip
+/dev/docs/lib/
+/dev/docs/pubspec.yaml
+.flutter-plugins
+.flutter-plugins-dependencies
+android/local.properties
+base_app/.flutter-plugins
+*/.flutter-plugins-dependencies
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Flutter/Generated.xcconfig
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+*/.flutter-plugins
+base_app/ios/Runner.xcworkspace/contents.xcworkspacedata
+*/.metadata
